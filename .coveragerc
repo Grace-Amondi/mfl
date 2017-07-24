@@ -1,0 +1,8 @@
+[run]
+branch=True
+source=common,users,facilities,chul,mfl_gis,search
+omit=
+    *migrations*
+
+[report]
+show_missing=True
